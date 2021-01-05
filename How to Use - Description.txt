@@ -1,4 +1,4 @@
-My own web styles library.
+My own web styles library (See in https://igorferreiramoraes.github.io/style-library/).
 It is composed of 2 main colors and the text color of each, that can be changed in:
 :root{
     --mainColor: hsl(204, 70%, 53%);
