@@ -17,7 +17,7 @@ The Black One, <div class="box black">
 The Main Box, <div class="box main">
 The Secondary Box, <div class="box second">
 
-The Main and Secundary boxes' colors are the Main and Second colors defined in the root.
+The Main and Secondary boxes' colors are the Main and Secondary colors defined in the root.
 
 --
 
